@@ -2,7 +2,7 @@
 1. Setup Environment
 
 # Clone the repository
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/SrinivasBathula9/ai_data_analysis_agent.git
 cd ai_agent_tutorials/ai_data_analysis_agent
 
 # Install dependencies
