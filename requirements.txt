@@ -1,0 +1,6 @@
+phidata
+streamlit
+openai
+duckdb
+pandas
+numpy
